@@ -1,0 +1,12 @@
+Imie: Piotr, Nazwisko: K****ski, Wiek: 23, Skutecznosc: 89
+Imie: Michal, Nazwisko: B*****ski, Wiek: 34, Skutecznosc: 89
+Imie: Piotr, Nazwisko: K****ski, Wiek: 23, Skutecznosc: 89
+Imie: Michal, Nazwisko: B*****ski, Wiek: 34, Skutecznosc: 89
+Imie: Piotr, Nazwisko: K****ski, Wiek: 23, Skutecznosc: 89
+Imie: Michal, Nazwisko: B*****ski, Wiek: 34, Skutecznosc: 89
+Imie: Piotr, Nazwisko: K****ski, Wiek: 23, Skutecznosc: 89
+Imie: Michal, Nazwisko: B*****ski, Wiek: 34, Skutecznosc: 89
+Imie: Ryszard, Nazwisko: M****ski, Wiek: 25, Skutecznosc: 95.9
+Imie: Teodor, Nazwisko: P******ski, Wiek: 33, Skutecznosc: 16.4
+Imie: Piotr, Nazwisko: P*****ski, Wiek: 36, Skutecznosc: 95.9
+Imie: Zbigniew, Nazwisko: E*ski, Wiek: 30, Skutecznosc: 12.5

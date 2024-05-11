@@ -1,0 +1,3 @@
+﻿  zad 4.cpp
+C:\Users\bz123\source\repos\zad 4\zad 4\zad 4.cpp(10,22): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u015B" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  zad 4.vcxproj -> C:\Users\bz123\source\repos\zad 4\x64\Debug\zad 4.exe

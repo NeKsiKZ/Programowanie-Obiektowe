@@ -1,0 +1,4 @@
+﻿  zad 7.cpp
+C:\Users\bz123\source\repos\zad 7\zad 7\zad 7.cpp(20,25): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u017B" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+C:\Users\bz123\source\repos\zad 7\zad 7\zad 7.cpp(20,25): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  zad 7.vcxproj -> C:\Users\bz123\source\repos\zad 7\x64\Debug\zad 7.exe

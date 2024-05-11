@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bz123\\source\\repos\\zad 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C360C800-84DA-49C1-9883-B2E3FD8296D9}|zad 4\\zad 4.vcxproj|C:\\Users\\bz123\\source\\repos\\zad 4\\zad 4\\zad 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C360C800-84DA-49C1-9883-B2E3FD8296D9}|zad 4\\zad 4.vcxproj|solutionrelative:zad 4\\zad 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad 4.cpp",
+              "DocumentMoniker": "C:\\Users\\bz123\\source\\repos\\zad 4\\zad 4\\zad 4.cpp",
+              "RelativeDocumentMoniker": "zad 4\\zad 4.cpp",
+              "ToolTip": "C:\\Users\\bz123\\source\\repos\\zad 4\\zad 4\\zad 4.cpp",
+              "RelativeToolTip": "zad 4\\zad 4.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T08:34:00.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
