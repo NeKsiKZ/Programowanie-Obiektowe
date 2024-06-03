@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\Zad 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|solutionrelative:Zad 11\\Zad 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\QueueExceptions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|solutionrelative:Zad 11\\QueueExceptions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\QueueExceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|solutionrelative:Zad 11\\QueueExceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\FIFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|solutionrelative:Zad 11\\FIFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\FIFO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B7D4E2E-552D-431E-9101-52B18F8C48AF}|Zad 11\\Zad 11.vcxproj|solutionrelative:Zad 11\\FIFO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueExceptions.cpp",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\QueueExceptions.cpp",
+              "RelativeDocumentMoniker": "Zad 11\\QueueExceptions.cpp",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\QueueExceptions.cpp",
+              "RelativeToolTip": "Zad 11\\QueueExceptions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T09:47:19.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueExceptions.h",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\QueueExceptions.h",
+              "RelativeDocumentMoniker": "Zad 11\\QueueExceptions.h",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\QueueExceptions.h",
+              "RelativeToolTip": "Zad 11\\QueueExceptions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T09:46:57.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FIFO.cpp",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\FIFO.cpp",
+              "RelativeDocumentMoniker": "Zad 11\\FIFO.cpp",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\FIFO.cpp",
+              "RelativeToolTip": "Zad 11\\FIFO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T09:46:35.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FIFO.h",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\FIFO.h",
+              "RelativeDocumentMoniker": "Zad 11\\FIFO.h",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\FIFO.h",
+              "RelativeToolTip": "Zad 11\\FIFO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T09:46:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad 11.cpp",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\Zad 11.cpp",
+              "RelativeDocumentMoniker": "Zad 11\\Zad 11.cpp",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\PO\\Zad 11\\Zad 11\\Zad 11.cpp",
+              "RelativeToolTip": "Zad 11\\Zad 11.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwDUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T09:41:44.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
